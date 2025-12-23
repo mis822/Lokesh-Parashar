@@ -1,0 +1,5 @@
+{
+  "name": "Employee Task Hub",
+  "description": "A centralized dashboard for employees to access their daily and periodic (Weekly/Monthly/Yearly) checklists and task assignments.",
+  "requestFramePermissions": []
+}
